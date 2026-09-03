@@ -12,6 +12,8 @@ GitHub repository: https://github.com/Codebrother1/proofstack
 
 Baseline commit: `86087018edf6b4cf8adb1fd62c8afea3804d08f8`
 
+Grok Bot access: **Confirmed.** The New Bot creation screen was reached on 2026-09-03. No bot has been created yet.
+
 ## Scoreboard
 
 | Measure | Current | Goal |
@@ -25,13 +27,13 @@ Baseline commit: `86087018edf6b4cf8adb1fd62c8afea3804d08f8`
 
 ## Now
 
-1. Complete TC-192: confirm Grok Bot access without adding unnecessary credentials.
-2. Start TC-193 by executing and verifying EXP-001.
+1. Create the first controlled Grok Bot as `ProofRunner`; do not select a credential-dependent template.
+2. Start TC-193 by executing and verifying EXP-001 in Cursor.
 
 ## Blockers
 
 - The live event URL is still needed before EXP-003 can be executed.
-- Grok Bot access and trial/credit terms have not been verified.
+- Grok Bot credit and usage terms remain unverified; the experiment must not depend on promotional credits.
 - The attached event page displays an end-time conflict: the header shows 2:30 PM while the body copy shows 1:30 PM. Confirm with the organizer before publishing a schedule.
 
 ## Next review
