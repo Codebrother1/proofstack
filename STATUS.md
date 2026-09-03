@@ -12,7 +12,7 @@ GitHub repository: https://github.com/Codebrother1/proofstack
 
 Baseline commit: `86087018edf6b4cf8adb1fd62c8afea3804d08f8`
 
-Grok Bot access: **Confirmed.** The New Bot creation screen was reached on 2026-09-03. No bot has been created yet.
+Grok Bot access: **Confirmed.** `ProofRunner` was created on 2026-09-03. Its neutral executor configuration is preserved at `01-experiments/bot-config/ProofRunner.md`.
 
 ## Scoreboard
 
@@ -27,8 +27,9 @@ Grok Bot access: **Confirmed.** The New Bot creation screen was reached on 2026-
 
 ## Now
 
-1. Create the first controlled Grok Bot as `ProofRunner`; do not select a credential-dependent template.
-2. Start TC-193 by executing and verifying EXP-001 in Cursor.
+1. Paste the frozen neutral executor configuration into `ProofRunner`.
+2. Start TC-193 with EXP-002 in Grok Bot while the controlled browser environment is open.
+3. Execute and verify EXP-001 in Cursor next.
 
 ## Blockers
 
