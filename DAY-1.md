@@ -9,8 +9,8 @@ Date: 2026-09-03
 - [x] Six initial experiment specifications drafted
 - [x] Canonical experiment workbook created
 - [x] Linear project created
-- [ ] Empty GitHub repository `proofstack` created under `Codebrother1`
-- [ ] Workspace pushed to the new repository
+- [x] Empty GitHub repository `proofstack` created under `Codebrother1`
+- [x] Workspace pushed to the new repository
 - [ ] Grok Bot access confirmed without adding unnecessary credentials
 - [ ] EXP-001 executed in Cursor and independently verified
 - [ ] EXP-004A and EXP-004B routine executed in Grok Bot and independently verified
@@ -31,4 +31,3 @@ Date: 2026-09-03
 ## What to say if someone asks what you are doing
 
 > I'm running a small benchmark on real agent work. I define what success means before the run, preserve the agent's exact instruction and completion claim, then verify the result from observable evidence. The question is not whether agents are good or bad; it is what proof we need before trusting more of their work.
-

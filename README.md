@@ -22,7 +22,7 @@ This workspace supports one project:
 | Predetermined task definitions | `01-experiments/task-specs/` |
 | Decisions and current position | `DECISIONS.md` and `STATUS.md` |
 | Deadlines and next actions | Linear project |
-| Public artifacts and history | GitHub repository (to be created) |
+| Public artifacts and history | `https://github.com/Codebrother1/proofstack` |
 
 ## Non-negotiable method
 
@@ -37,4 +37,3 @@ This workspace supports one project:
 ## Start here
 
 Open `DAY-1.md`. Complete one action at a time. After each run, update the workbook and `STATUS.md` before starting another.
-

@@ -8,6 +8,10 @@ Last updated: 2026-09-03
 
 Linear project: https://linear.app/tc-cazy/project/agent-trust-gap-dallas-sep-19-137cc35cddc7
 
+GitHub repository: https://github.com/Codebrother1/proofstack
+
+Baseline commit: `86087018edf6b4cf8adb1fd62c8afea3804d08f8`
+
 ## Scoreboard
 
 | Measure | Current | Goal |
@@ -21,14 +25,11 @@ Linear project: https://linear.app/tc-cazy/project/agent-trust-gap-dallas-sep-19
 
 ## Now
 
-1. Complete TC-191: create the empty `Codebrother1/proofstack` repository.
-2. Push this baseline without altering experiment criteria.
-3. Complete TC-192: confirm Grok Bot access without adding unnecessary credentials.
-4. Start TC-193 by executing and verifying EXP-001.
+1. Complete TC-192: confirm Grok Bot access without adding unnecessary credentials.
+2. Start TC-193 by executing and verifying EXP-001.
 
 ## Blockers
 
-- The GitHub connection can manage an existing repository but cannot create a new repository.
 - The live event URL is still needed before EXP-003 can be executed.
 - Grok Bot access and trial/credit terms have not been verified.
 - The attached event page displays an end-time conflict: the header shows 2:30 PM while the body copy shows 1:30 PM. Confirm with the organizer before publishing a schedule.
