@@ -37,3 +37,7 @@ ProofStack is not a completed benchmark, production verification service, or sta
 The project aims to produce an evidence-backed benchmark, a reusable manual verification protocol, a sanitized public dataset, and a practical checklist. A CLI or report generator may follow if the evidence shows that automation would help.
 
 The historical workspace was prepared for a Dallas AI-agent meetup. Its preparation documents are retained as project history; planned deliverables should not be read as completed results.
+
+## License
+
+Project-owned software and documentation are available under the [MIT License](LICENSE). Third-party materials, recorded agent outputs, and evidence are not relicensed by this notice; their applicable rights and publication restrictions remain in place. See the [data rules](02-data/README.md) before redistributing benchmark records.
